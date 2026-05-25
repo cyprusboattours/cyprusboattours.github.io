@@ -159,4 +159,9 @@ nav h2 {
     gap: 15px;
   }
 
+  .tour-card {
+  text-decoration: none;
+  color: inherit;
+}
+
 }
